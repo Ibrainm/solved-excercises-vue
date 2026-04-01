@@ -1,10 +1,10 @@
 <script lang="ts" setup>
-
+import "../../../style.css"
 
 </script>
 
 <template>
-    <div>
+    <div class="container">
         <h1>Fibonacci Counter</h1>
         <input type="number">
         <button>Previous</button>
